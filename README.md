@@ -1,0 +1,1 @@
+# plugins-select-all-categories-and-taxonomies-change-checkbox-to-radio-buttons
