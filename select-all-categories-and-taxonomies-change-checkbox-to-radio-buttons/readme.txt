@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Stable tag: 1.3.6
 Tags: taxonomy, radio, select, checkbox, category
 Requires at least: 4.3
-Tested up to: 6.3
+Tested up to: 6.9
 License: GPLv2
 
 Use radio buttons or checkboxes for your categories and custom taxonomies with this incredibly powerful and easy-to-use plugin.
